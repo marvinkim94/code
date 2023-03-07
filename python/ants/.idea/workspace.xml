@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9f6efd1-16df-45a5-8ab2-7346f361a46c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ok" beforeDir="false" afterPath="$PROJECT_DIR$/ok" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/08.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/EC.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/EC.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2MfDSNAMX1Zga1jJs8IcjgfLp6s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9f6efd1-16df-45a5-8ab2-7346f361a46c" name="Changes" comment="" />
+      <created>1678149741951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678149741951</updated>
+    </task>
+    <servers />
+  </component>
+</project>
